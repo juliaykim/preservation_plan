@@ -1,3 +1,5 @@
+*This document is a work-in-progress,* This document does not imply consent, permission granted, or adoption by the organizations mentioned. Do not assume this draft is working policy.
+
 _This document was created to document changes in the digital preservation policy and guidelines at AFC, specifically by creating time-stamped, multi-authored documentation.
 The AFC DAM's hire in 7/2015 precipiated the need to create documentation of processes as *they were, as they had been previously, and as they would be during her tenure.*
 Without clearer documentation practices, the AFC DAM was unable to understand the processes and organization of previous collections into the repository.Decisions and the historic mechanisms for them, such as priortizing collections, directory and file-naming conventions of some organizations, and so forth were sometimes opaque.
@@ -9,7 +11,7 @@ During the first 6 months, the DAM was told to prioritize making decisions for s
 [York University]
 [New Zealand]
 
-American Folklife Center, Library of Congress
+**American Folklife Center, Library of Congress**
 "American folklife" means the traditional expressive culture shared within the various groups in the United States: familial, ethnic, occupational, religious, regional; expressive culture includes a wide range of creative and symbolic forms such as custom, belief, technical skill, language, literature, art, architecture, music, play, dance, drama, ritual, pageantry, handicraft; these expressions are mainly learned orally, by imitation, or in performance, and are generally maintained without benefit of formal instruction or institutional direction;
 
 **Digital Preservation**
@@ -19,8 +21,17 @@ Digital preservation decisions are made on the basis of this Policy, the Library
 
 Preservation of digital resources may include any actions necessary to preserve continued access to the digital material, ensure its authenticity, mitigate and/or reverse the effects of hardware and software obsolescence and media decay. This Policy recognizes that the maintenance and the reliable long-term access to Yale’s digital resources are supported by a preservation planning function. Research (monitoring) about technology that supports a repository and the requirements of the designated community it serves is a core activity to preservation planning, as well as outreach and education regarding policies, procedures and best practices for digital resources. 
 
+AFC recognizes there are occasions for *no preservation,* in which we cannot accept responsibility for collections. This may be because the collection files were corrupted or appropriate authorization for preservation actions were not established.
+
 **Frequency of Policy Review**
 This policy will be reviewed bi-annually to assure timely updates to reflect the maturing of the technology by the relevant body. 
+
+**Criteria for determining preservation-levels"
+AFC recognizes that not all collections require or mandate the same amount of processing, staff time, and resources. This flexiblity is at the heart of our interpretation of "more product, less process." Whether analog or digital, collections should be evaluated before they are accessionined to understand the responsibilities the repository is committing. Criteria can include:
+(1) Rights - do we have the minimum rights to, for example, transform the work?
+(2) Metadata - do we have sufficient intellectual controls and descritptive metadata to accept responsilbilty for the collection? Are we collecting sufficient metadata for the content type (for examples, images, photographs, sound recordings, audiovisual files)? 
+
+With the accessioning of the collection, can we assign it a value, 1-4, on its preservation level?  This value can be based on the above as well as the obsoleteness of the collection, the condition of the carrier object (floppy disk, for example), the number of files and the collections size, and the types of files and their status as supported/unsuppported in the repositiory (Emory University's work)
 
 **Authenticity** 
 The mutable nature of digital resources opens the possibility for unauthorized and undetectable changes. Confidence in the authenticity of digital resources over time is particularly crucial owing to the ease with which alterations can be made. From the moment that digital resources are created or acquired, YUL undertakes protective procedures to prevent, discover, and correct loss or corruption of digital resources due to either inadvertent or malicious intent. In addition, supporting evidence, ideally in the form of metadata, must be provided to enable users to evaluate the authenticity of all preserved digital resources. 
