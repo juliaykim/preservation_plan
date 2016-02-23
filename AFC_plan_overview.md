@@ -1,4 +1,4 @@
-*This document is a work-in-progress,* This document does not imply consent, permission granted, or adoption by the organizations mentioned. Do not assume this draft is working policy.
+### H4 *This document is a work-in-progress,* This document does not imply consent, permission granted, or adoption by the organizations mentioned. Do not assume this draft is working policy.  ### H4
 
 _This document was created to document changes in the digital preservation policy and guidelines at AFC, specifically by creating time-stamped, multi-authored documentation.
 The AFC DAM's hire in 7/2015 precipiated the need to create documentation of processes as *they were, as they had been previously, and as they would be during her tenure.*
@@ -12,7 +12,7 @@ During the first 6 months, the DAM was told to prioritize making decisions for s
 [New Zealand]
 
 **American Folklife Center, Library of Congress**
-"American folklife" means the traditional expressive culture shared within the various groups in the United States: familial, ethnic, occupational, religious, regional; expressive culture includes a wide range of creative and symbolic forms such as custom, belief, technical skill, language, literature, art, architecture, music, play, dance, drama, ritual, pageantry, handicraft; these expressions are mainly learned orally, by imitation, or in performance, and are generally maintained without benefit of formal instruction or institutional direction;
+"'American folklife' means the traditional expressive culture shared within the various groups in the United States: familial, ethnic, occupational, religious, regional; expressive culture includes a wide range of creative and symbolic forms such as custom, belief, technical skill, language, literature, art, architecture, music, play, dance, drama, ritual, pageantry, handicraft; these expressions are mainly learned orally, by imitation, or in performance, and are generally maintained without benefit of formal instruction or institutional direction." -excerpted from the American Folklife Preservation Act law (P.L. 94-201), 1976).
 
 **Digital Preservation**
 Digital preservation is the whole of the activities and processes involved in the physical and intellectual protection and technical stabilization of digital resources through time in order to reproduce authentic copies of these resources. 
